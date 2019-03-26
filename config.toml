@@ -266,6 +266,7 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
     copyright = '&copy; All Rights Reserved EmpowerHer'
     links = [
         ["icon-facebook", "https://www.facebook.com/EMPOWERHER.IN/"],
+         ["icon-instagram", "https://www.instagram.com/empowerher.in/"],
         ]
 
 
