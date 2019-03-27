@@ -175,7 +175,7 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
     donate1 = "A/C. No: 306902010056812 <br>IFSC Code: UBIN0530697  <br> Bank Name: Union Bank of India <br> Branch: Dehradun Road, Rishikesh, Uttarakhand  "
     donate2title = "You can also donate via PayPal."
     donate2 = " https://www.paypal.me/EmpowerHerIndia "
-    info= " Kindly inform us about your contribution along with your contact details, by using our Contact Us page. This will help us to stay informed about your contribution."
+    info= " Kindly inform us about your contribution along with your contact details, by using our Contact Us page. <br> This will help us to stay informed about your contribution."
 
     [[params.about.item]]
       name = "Sponsor a Vocational Trainee"
