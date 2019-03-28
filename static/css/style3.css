@@ -438,11 +438,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .slant {
   position: absolute;
-  transform: rotate(-1.7deg);
+  /* transform: rotate(-1.7deg);
   -ms-transform: rotate(-1.7deg);
   -webkit-transform: rotate(-1.7deg);
   -o-transform: rotate(-1.7deg);
-  -moz-transform: rotate(-1.7deg);
+  -moz-transform: rotate(-1.7deg); */
   background-color: #fff;
   content: "";
   z-index: 3;
@@ -644,11 +644,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-services:before, #fh5co-services:after {
   position: absolute;
-  transform: rotate(-1.7deg);
+  /* transform: rotate(-1.7deg);
   -ms-transform: rotate(-1.7deg);
   -webkit-transform: rotate(-1.7deg);
   -o-transform: rotate(-1.7deg);
-  -moz-transform: rotate(-1.7deg);
+  -moz-transform: rotate(-1.7deg); */
   background-color: #fff;
   content: "";
   z-index: 3;
@@ -881,11 +881,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-work:before, #fh5co-work:after {
   position: absolute;
-  transform: rotate(-1.7deg);
+  /* transform: rotate(-1.7deg);
   -ms-transform: rotate(-1.7deg);
   -webkit-transform: rotate(-1.7deg);
   -o-transform: rotate(-1.7deg);
-  -moz-transform: rotate(-1.7deg);
+  -moz-transform: rotate(-1.7deg); */
   background-color: #fff;
   content: "";
   z-index: 3;
