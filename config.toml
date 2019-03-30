@@ -113,7 +113,7 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
   [params.testimonials]
     enable = true
     title = "Who we are"
-    description = " <br> EmpowerHer is an NGO, founded in 2012 in Rishikesh, India working at grass roots for and with women living in impoverished slums. It is staffed by a dedicated local team whose shared goal is to support and empower disadvantaged women and girls who are affected by poverty, lack of education, discrimination, abuse and violations of their rights, entitlements, access and control of finances. <br> Experience has proved that if equipped with proper education and resources, women have the power to help, not only their own families, but whole communities, to overcome poverty, marginalization and social injustice."
+    description = " <br> EmpowerHer is an NGO, founded in 2012 in Rishikesh, India working at grass roots for and with women living in impoverished slums. It is staffed by a dedicated local team whose shared goal is to support and empower disadvantaged women and girls who are affected by poverty, lack of education, discrimination, abuse and violations of their rights, entitlements, access and control of finances. Experience has proved that if equipped with proper education and resources, women have the power to help, not only their own families, but whole communities, to overcome poverty, marginalization and social injustice."
     img = "work_14.jpg"
 
     [[params.testimonials.item]]
