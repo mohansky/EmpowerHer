@@ -23,7 +23,7 @@
 				</div>
 			{{ end }}
 			</div>
-			<br>
+		
 			<div class="row">
 						
 						<br><br>
@@ -33,16 +33,16 @@
 							</div>
 						<div class="col-md-4   subtext to-animate">
 							<h3>{{ with .Site.Params.about.donate2title }}{{ . | markdownify }}{{ end }}</h3>
-							<h5>{{ with .Site.Params.about.donate2 }}{{ . | markdownify }}{{ end }}</h5>
 							<br>
-							 
-						<button class="btn btn-primary btn-lg" href="https://www.paypal.me/EmpowerHerIndia">PayPal</button>
+						
+						<p><a href="https://www.paypal.me/EmpowerHerIndia" class="btn btn-primary btn-lg">PayPal</a></p> 
+						
 					 
 						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-10 col-md-offset-1   subtext to-animate text-center">
+			<div class="col-md-10 col-md-offset-1 subtext to-animate text-center">
 				<p>{{ with .Site.Params.about.info }}{{ . | markdownify }}{{ end }}</p>
 				</div>
 		</div>
