@@ -24,7 +24,7 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
     testimonials = "Who We Are"
     work = "What We do"
     services= "Gallery"
-    about = "Donate"
+    about = "Support"
     contact = "Contact"
 
     # You can add custom links before or after the default links
@@ -169,7 +169,7 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
   # About section
   [params.about]
     enable = true
-    title = "Donate"
+    title = "Support Us"
     description = " "
     donate1title = "Please donate by bank transfer <br> in the name of “EMPOWER HER” "
     donate1 = "A/C. No: 306902010056812 <br>IFSC Code: UBIN0530697  <br> Bank Name: Union Bank of India <br> Branch: Dehradun Road, Rishikesh, Uttarakhand  "
