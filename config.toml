@@ -18,7 +18,7 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
 
   # Navigation
   [params.navigation]
-    logo = "/images/empowerher.png"
+    logo = "/images/empowerhers.PNG"
     brand = " "
     home = "Home"
     testimonials = "Who We Are"
