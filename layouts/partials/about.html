@@ -34,11 +34,13 @@
 						<div class="col-md-4   subtext to-animate">
 							<h3>{{ with .Site.Params.about.donate2title }}{{ . | markdownify }}{{ end }}</h3>
 							<br>
+							
+							<script src="https://www.paypal.com/sdk/js?client-id=sb"></script>
+						<script>paypal.Buttons().render('body');</script>
 						
 						<p><a href="https://www.paypal.me/EmpowerHerIndia" target="_blank" class="btn btn-primary btn-lg">PayPal</a></p> 
 						
-						<script src="https://www.paypal.com/sdk/js?client-id=sb"></script>
-						<script>paypal.Buttons().render('body');</script>
+						
 					 
 						</div>
 					</div>
