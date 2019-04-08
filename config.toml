@@ -79,7 +79,7 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
     enable = false
     title = "Watch the video"
     icon = "icon-play2"
-    url = "https://vimeo.com/channels/staffpicks/93951774"
+    url = " "
 
 
   # Work section is the what we do section
@@ -87,7 +87,7 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
     enable = true
     title = "What We Do"
     description = "WE SUPPORT GIRLS AND WOMEN TO REACH THEIR FULL POTENTIAL"
-  # footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
+  # footertext = ' '
 
     
     [[params.work.row]]
